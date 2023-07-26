@@ -1,0 +1,30 @@
+.main {
+    color: #7a2121;
+}
+
+.ball {
+    display: inline-flex;
+    list-style: none;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
+.ball a {
+
+    width: 30%;
+    color: #3f4d6e;
+    text-decoration: none;
+    padding-left: 25px;
+    height: 44px;
+    line-height: 44px;
+    font-size: 20px;
+    position: relative;
+    transition: .3s linear;
+}
+
+.ball li {position: relative;}
+
+
+.ball li:hover:before {left: -20px;}

@@ -1,0 +1,42 @@
+h3 {
+    color: #7a2121;
+    font-size: 1.5rem;
+}
+
+h4 {
+    color: #7a2121;
+    font-size: 1.5rem;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.image {
+    width: 500px;
+    float: outside;
+
+}
+p.description {
+    font-size: 1.2rem;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    white-space: break-spaces;
+
+}
+p.ing {
+    font-size: 1.2rem;
+    width: 80%;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    white-space: break-spaces;
+
+}
+p.rec {
+    width: 80%;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    white-space: break-spaces;
+
+}
